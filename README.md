@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajibola David
 - 👀 I’m interested in React and Blockchain development
-- 🌱 I’m currently learning React and Solidity at the moment
+- 🌱 I’m currently learning React and nextjs at the moment
 - 💞️ I’m looking to collaborate on Web3 projects in general
 - 📫 How to reach me ...
 
